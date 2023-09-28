@@ -1,0 +1,1 @@
+"SET NAMES 'utf8'")); } catch (PDOException $e) { exit("Error: " . $e->getMessage()); } ?>
